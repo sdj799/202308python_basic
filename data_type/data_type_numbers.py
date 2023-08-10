@@ -62,3 +62,4 @@ b2 = False
 # 파이썬은 문자열로 동등, 비동등 비교가 가능합니다.
 # 대/소문자까지 정확하게 일치해야만 True를 도출합니다.
 password = 'abc1234!'
+print(password == 'Abc1234!')
